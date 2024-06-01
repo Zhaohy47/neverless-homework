@@ -1,0 +1,38 @@
+[
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "EUR",
+    "rate": 0.85,
+    "updateTime": 1641312000000
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "GBP",
+    "rate": 0.75,
+    "updateTime": 1641312000000
+  },
+  {
+    "fromCurrency": "EUR",
+    "toCurrency": "USD",
+    "rate": 1.18,
+    "updateTime": 1641312000000
+  },
+  {
+    "fromCurrency": "EUR",
+    "toCurrency": "GBP",
+    "rate": 0.88,
+    "updateTime": 1641312000000
+  },
+  {
+    "fromCurrency": "GBP",
+    "toCurrency": "USD",
+    "rate": 1.33,
+    "updateTime": 1641312000000
+  },
+  {
+    "fromCurrency": "GBP",
+    "toCurrency": "EUR",
+    "rate": 1.14,
+    "updateTime": 1641312000000
+  }
+]

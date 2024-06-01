@@ -1,0 +1,92 @@
+[
+  {
+    "userId": 1,
+    "balance": 1000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 1000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 2,
+    "balance": 2000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 2000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 3,
+    "balance": 3000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 3000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 4,
+    "balance": 4000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 4000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 5,
+    "balance": 5000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 5000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 6,
+    "balance": 6000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 6000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 7,
+    "balance": 7000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 7000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 8,
+    "balance": 8000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 8000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 9,
+    "balance": 9000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 9000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  },
+  {
+    "userId": 10,
+    "balance": 10000.00,
+    "freezeBalance": 0.00,
+    "activeBalance": 10000.00,
+    "currency": "USD",
+    "accountStatus": 0,
+    "lastLoginTime": 1641312000000
+  }
+]
